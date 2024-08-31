@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* .log{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(167, 208, 224);
+    border: 2px solid black;
+    border-radius: 25%;
+    display: inline-block;
+   margin-top: 100px;
+   margin-left: 700px;
+} */
+
+#button{
+    background-color: burlywood;
+    
+}
