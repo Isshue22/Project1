@@ -13,7 +13,7 @@ nav {
 }
 
 #text {
-    margin-left: 200px;
+    margin-left: 20px;
     color: orange;
     font-size: larger;
 }
@@ -55,7 +55,7 @@ footer {
 }
 
 .item1 {
-    background-image: url("download.jpeg");
+    background-image: url("https://drive.google.com/file/d/1QzRCm4Mpuy_RAD-Lr2StWQD5z_3sVrYk/view?usp=drivesdk");
     background-size: cover;
     margin-top: 10px;
     background-color: rgb(223, 236, 235);
@@ -75,11 +75,7 @@ footer {
 }
 
 #photo {
-    background-image: url("download.jpeg");
+    background-image: url("https://drive.google.com/file/d/1Ql_l1hBZ3DVLl0ncC6vN8R20K7DBAaEr/view?usp=drivesdk");
     background-size: cover;
 }
 
-#po {
-    background-image: url("img.jpeg");
-
-}
